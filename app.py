@@ -24,6 +24,8 @@ filtered_df = pd.DataFrame(data)
 # Initialize the Dash app
 app = Dash(__name__)
 
+server = app.server
+
 # Define the layout of the app
 app.layout = html.Div(
     [
