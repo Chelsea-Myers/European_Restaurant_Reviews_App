@@ -1,0 +1,1 @@
+This app visualizes the European Restaurant Reviews dataset.
